@@ -25,10 +25,11 @@ form:hover{
 }
 @media all and (max-width: 1200px){
     form{
-        width:80%;
+        width:100%;
         margin-top:30%;
-        margin-left:10%;
+        margin-left:0%;
         height:400px;
+        padding-top:15%
     }
 }
 .namediv, .passdiv{
