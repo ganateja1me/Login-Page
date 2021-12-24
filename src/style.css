@@ -32,6 +32,15 @@ form:hover{
         padding-top:15%
     }
 }
+@media all and (max-width: 600px){
+    form{
+        width:100%;
+        margin-top:30%;
+        margin-left:0%;
+        height:400px;
+        padding-top:15%
+    }
+}
 .namediv, .passdiv{
     border-bottom:2px solid black;
     position: relative;
